@@ -4,12 +4,12 @@ export default function Logo() {
       aria-labelledby="conf-logo-title-header"
       fill="none"
       role="img"
-      viewBox="0 -18 300 158"
+      viewBox="0 -18 300 145"
       width="300"
-      height="158"
+      height="145"
       xmlns="http://www.w3.org/2000/svg"
     >
-      <g transform="translate(0.000000,158.000000) scale(0.027959,-0.027719)"
+      <g transform="translate(0.000000,145.000000) scale(0.100000,-0.100000)"
 fill="#FFFFFF" stroke="none">
 <path d="M503 1320 c-19 -8 -23 -17 -23 -50 0 -23 -4 -49 -9 -58 -5 -10 -3
 -53 5 -107 21 -137 21 -149 2 -153 -9 -2 -18 4 -21 15 -4 17 -5 17 -6 1 -1
