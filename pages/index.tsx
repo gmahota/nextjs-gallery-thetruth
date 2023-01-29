@@ -59,14 +59,14 @@ const Home: NextPage = ({ images }: { images: ImageProps[] }) => {
             </div>
             <Logo />
             <h1 className="mt-8 mb-4 text-base font-bold uppercase tracking-widest">
-              Fotos de 2022
+              Ensaio Fotográfico
             </h1>
             <p className="max-w-[40ch] text-white/75 sm:max-w-[32ch]">
-              Nossa incrivel rede de celulas junta na cidade de maputo, igreja videira!
+              Para a campanha thetruth no mês dos namorados.
             </p>
             <a
               className="pointer z-10 mt-6 rounded-lg border border-white bg-white px-3 py-2 text-sm font-semibold text-black transition hover:bg-white/10 hover:text-white md:mt-4"
-              href="https://www.instagram.com/livingstones.rede"
+              href="https://www.instagram.com/thetruth.mz/"
               target="_blank"
               rel="noreferrer"
             >
@@ -103,31 +103,14 @@ const Home: NextPage = ({ images }: { images: ImageProps[] }) => {
       <footer className="p-6 text-center text-white/80 sm:p-12">
         Thank you to{' '}
         <a
-          href="https://www.instagram.com/sergio_chirindza_filmmaker/"
+          href="https://www.instagram.com/elifromsaalt/"
           target="_blank"
           className="font-semibold hover:text-white"
           rel="noreferrer"
         >
-          Sergio Chirindza
+          @elifromsaalt
         </a>
-        ,{' '}
-        <a
-          href="https://www.instagram.com/nassi.machado/"
-          target="_blank"
-          className="font-semibold hover:text-white"
-          rel="noreferrer"
-        >
-          Nassima Machado
-        </a>
-        , and{' '}
-        <a
-          href="https://www.instagram.com/paulo_manhate/"
-          target="_blank"
-          className="font-semibold hover:text-white"
-          rel="noreferrer"
-        >
-          Paulo Manhate
-        </a>{' '}
+        
         for the pictures.
       </footer>
     </>
